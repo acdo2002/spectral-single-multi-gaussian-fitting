@@ -5,7 +5,7 @@
 `python3 -m venv --system-site-packages ./venv`\
 `source ./venv/bin/activate `
 
-2. install packages: pandas, numpy, matplotlib \
+2. install packages: pandas, numpy, matplotlib, scipy \
 (e.g.) `pip install numpy`
 
 3. running python codes: \
