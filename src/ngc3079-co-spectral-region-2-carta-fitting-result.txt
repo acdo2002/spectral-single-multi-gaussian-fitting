@@ -1,0 +1,26 @@
+# image: ngc3079-5mhz-co21_v2_extendall_2.fits
+# statistic: 4
+# rotbox[[509.354918pix, 509.883007pix], [7.277634pix, 3.163178pix], 0.000000deg]
+# rotbox(wcs:FK5)[[10:01:57.8251745614, 55:40:47.0899050789], [0.5159842118", 0.2242692996"], 0.000000deg]
+
+ Gaussian function fitting with 1 component(s)
+ summary from method 'trust-region/levenberg-marquardt'
+ number of iterations = 11
+ function evaluations = 60
+ Jacobian evaluations = 0
+ reason for stopping  = small gradient
+ initial |f(x)|       = 0.886320
+ final |f(x)|         = 0.144021
+ initial cost         = 7.855628549124e-01
+ final cost           = 2.074203374966e-02
+ final cond(J)        = 1.156198042563e+04
+
+ baseline
+ y intercept          = 3.691963896117e-03 +/- 4.303327048484e-04 (11.7%)
+ slope        (fixed) = 0.000000000000e+00
+ component #1
+ amp1                 = 1.549345839591e-01 +/- 1.344133827219e-03 (0.868%)
+ center1              = -1.381315288342e+02 +/- 1.607504590242e+00 (1.16%)
+ fwhm1                = 3.879453389155e+02 +/- 4.080593542593e+00 (1.05%)
+ integral of function ~= 6.398101400333e+01 +/- 6.591052798854e-01 (1.03%)
+

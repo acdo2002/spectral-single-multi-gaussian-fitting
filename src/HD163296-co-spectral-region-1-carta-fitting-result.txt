@@ -1,0 +1,31 @@
+# image: HD163296_CO_2_1.image
+# statistic: 4
+# rotbox[[219.702335pix, 207.935798pix], [117.665370pix, 211.797665pix], 0.000000deg]
+# rotbox(wcs:FK5)[[17:56:21.2680366046, -21:57:22.7638637672], [5.8832684825", 10.5898832685"], 0.000000deg]
+
+ Gaussian function fitting with 2 component(s)
+ summary from method 'trust-region/levenberg-marquardt'
+ number of iterations = 21
+ function evaluations = 192
+ Jacobian evaluations = 0
+ reason for stopping  = small step size
+ initial |f(x)|       = 0.274791
+ final |f(x)|         = 0.023261
+ initial cost         = 7.551024674185e-02
+ final cost           = 5.410550313273e-04
+ final cond(J)        = 1.366049092775e+02
+
+ baseline
+ y intercept          = 1.981565659189e-04 +/- 9.901482999825e-05 (50%)
+ slope        (fixed) = 0.000000000000e+00
+ component #1
+ amp1                 = 6.478632955474e-02 +/- 8.575560245965e-04 (1.32%)
+ center1              = 2.305345739158e+02 +/- 2.122888816015e-05 (9.21e-06%)
+ fwhm1                = 1.691543097704e-03 +/- 4.375016606883e-05 (2.59%)
+ integral of function ~= 1.166537363043e-04 +/- 3.204886807935e-06 (2.75%)
+ component #2
+ amp2                 = 7.011766445952e-02 +/- 8.743262332948e-04 (1.25%)
+ center2              = 2.305325920470e+02 +/- 1.940994151313e-05 (8.42e-06%)
+ fwhm2                = 1.664320297859e-03 +/- 3.955427997473e-05 (2.38%)
+ integral of function ~= 1.242214406905e-04 +/- 3.193670757422e-06 (2.57%)
+
